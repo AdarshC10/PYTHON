@@ -5,7 +5,7 @@
 Welcome to my collection of **Data Analysis Projects** using **Python & Pandas**!  
 These projects focus on **data preprocessing, analysis, visualization, and insights**.  
 
-Each project demonstrates the power of **Python libraries** like Pandas, NumPy, and Matplotlib/Seaborn.  
+Each project demonstrates the power of **Python libraries** like Pandas, and Matplotlib/Seaborn.  
 
 ---
 
