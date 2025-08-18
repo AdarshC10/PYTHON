@@ -108,11 +108,9 @@ Analyzed a **flight passenger dataset** to understand **satisfaction trends, age
 |--------------------|----------------------------------------------------------------------|
 | **Python**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Pandas**         | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **NumPy**          | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 | **Matplotlib**     | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) |
 | **Seaborn**        | ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge) |
 
 ---
 
-## 📂 Project Structure
 
