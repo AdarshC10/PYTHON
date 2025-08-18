@@ -78,7 +78,7 @@ Explored **insurance claims dataset** to analyze **charges, regions, and custome
 - Found factors affecting insurance charges  
 - Visualized smoker vs non-smoker cost difference  
 
-**📂 [View Project](https://github.com/AdarshC10/Pandas/blob/main/insurance_analysis.ipynb)**
+**📂 [View Project](https://github.com/AdarshC10/Python/blob/main/Insurance.ipynb)**
 </details>
 
 ---
