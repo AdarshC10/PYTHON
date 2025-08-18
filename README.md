@@ -60,7 +60,7 @@ Performed **Movie Dataset Analysis** for ratings, revenue, and trends using **Py
 - Found highest-rated and most profitable movies  
 - Visualized movie trends by country and language  
 
-**📂 [View Project](https://github.com/AdarshC10/Pandas/blob/main/movies_analysis.ipynb)**
+**📂 [View Project](https://github.com/AdarshC10/Python/blob/main/Movie.ipynb)**
 </details>
 
 ---
