@@ -42,7 +42,7 @@ Analyzed a **clinical trials dataset** using Pandas to understand **trial status
 - Counted trials per phase  
 - Identified most common conditions studied  
 
-**📂 [View Project](https://github.com/AdarshC10/Pandas/blob/main/clinical_trials_analysis.ipynb)**
+**📂 [View Project](https://github.com/AdarshC10/Python/blob/main/clinictrial.ipynb)**
 </details>
 
 ---
