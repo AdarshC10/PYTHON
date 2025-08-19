@@ -116,7 +116,7 @@ Analyzed **content type, ratings, countries, cast, directors, categories, and ke
 - 🎭 Drama, Comedy, and Documentaries are the most frequent categories.  
 - ☁️ Word clouds revealed trending **keywords, countries, cast, and directors**, giving insights into Netflix’s content strategy.  
 
-**📂 [View Project](https://github.com/AdarshC10/Pandas/blob/main/flight_satisfaction_analysis.ipynb)**
+**📂 [View Project](https://github.com/AdarshC10/PYTHON/blob/main/Netflix.ipynb)**
 </details>
 
 
