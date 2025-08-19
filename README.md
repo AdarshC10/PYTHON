@@ -102,6 +102,26 @@ Analyzed a **flight passenger dataset** to understand **satisfaction trends, age
 
 ---
 
+<details>
+<summary>🍿 5. Netflix Data Analysis</summary>
+
+**Description:**  
+Analyzed **content type, ratings, countries, cast, directors, categories, and keywords** to understand how Netflix content is distributed and to uncover key trends.  
+
+**Highlights:**  
+- 📌 Movies dominate Netflix compared to TV Shows.  
+- 🎬 **USA, India, and UK** are the top content-producing countries.  
+- 🔖 **TV-MA** is the most common rating for Movies, while **TV-14** dominates TV Shows.  
+- ⭐ Popular actors and directors appear repeatedly in Netflix’s catalog.  
+- 🎭 Drama, Comedy, and Documentaries are the most frequent categories.  
+- ☁️ Word clouds revealed trending **keywords, countries, cast, and directors**, giving insights into Netflix’s content strategy.  
+
+**📂 [View Project](https://github.com/AdarshC10/Pandas/blob/main/flight_satisfaction_analysis.ipynb)**
+</details>
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Tool / Library     | Badge                                                                 |
